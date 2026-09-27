@@ -1,0 +1,6 @@
+{
+  "name": "PicklePlay Tagum",
+  "description": "A Mobile-Based Pickleball Court Reservation, Player Ranking, and Management System for Tagum City",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
